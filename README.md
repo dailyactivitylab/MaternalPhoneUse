@@ -22,9 +22,6 @@ Data_Raw: contains raw outputs of Beiwe mobile and LENA audio device; used for I
 
       	Sleep_movi_infants
         	- Sleep episodes identified using Sadeh sleep algorithm
-	 
-  	Demographics (de-identified)
-   		- Demographics.csv
 
 
 Date_Binned: 1-minute binned timeseries outputs from ITSbin.R and beiwe_lena_preprocessing.R (Part 1); used for part 2 of beiwe_lena_preprocessing.R
